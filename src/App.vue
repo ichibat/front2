@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/user/register">登録</router-link> |
-      <router-link to="/user/login">ログイン</router-link>
+      <router-link to="/user/login">ログイン</router-link> |
+      <router-link to="/score">スコア入力</router-link> |
     </div>
     <router-view/>
   </div>
